@@ -1,2 +1,12 @@
-# life_expectancy_udacity
-Analysing life expectancy data set for a Udacity project
+# UDACITY project
+## Cleaning and analysing life expectancy dataset
+
+Includes
+- csv
+- Jupyter Notebook
+
+Content of Jupyter Notebook
+- Introduction
+- Data Wrangling
+- Exploratory Data Analysis
+- Conclusions
